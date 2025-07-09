@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ApiMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\controllers\\peliculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\models\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\models\\crearpeliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\models\\crearpeliculadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\services\\peliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\interfaces\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\interfaces\\ipeliculaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\dao\\repositorypelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\dao\\repositorypelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\interfaces\\irepositorypelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\interfaces\\irepositorypelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\context\\contextdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|e:\\apimovies\\apimovies\\apimovies.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{2C98B63C-B6C4-4906-96D5-DC591A8FA548}|ApiMovies\\ApiMovies.csproj|solutionrelative:apimovies\\apimovies.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PeliculaController.cs",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\Controllers\\PeliculaController.cs",
+              "RelativeDocumentMoniker": "ApiMovies\\Controllers\\PeliculaController.cs",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\Controllers\\PeliculaController.cs",
+              "RelativeToolTip": "ApiMovies\\Controllers\\PeliculaController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:24:21.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeliculaService.cs",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\Services\\PeliculaService.cs",
+              "RelativeDocumentMoniker": "ApiMovies\\Services\\PeliculaService.cs",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\Services\\PeliculaService.cs",
+              "RelativeToolTip": "ApiMovies\\Services\\PeliculaService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:06:55.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\Models\\Pelicula.cs",
+              "RelativeDocumentMoniker": "ApiMovies\\Models\\Pelicula.cs",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\Models\\Pelicula.cs",
+              "RelativeToolTip": "ApiMovies\\Models\\Pelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T23:48:13.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RepositoryPelicula.cs",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\DAO\\RepositoryPelicula.cs",
+              "RelativeDocumentMoniker": "ApiMovies\\DAO\\RepositoryPelicula.cs",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\DAO\\RepositoryPelicula.cs",
+              "RelativeToolTip": "ApiMovies\\DAO\\RepositoryPelicula.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T23:53:54.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepositoryPelicula.cs",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\Interfaces\\IRepositoryPelicula.cs",
+              "RelativeDocumentMoniker": "ApiMovies\\Interfaces\\IRepositoryPelicula.cs",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\Interfaces\\IRepositoryPelicula.cs",
+              "RelativeToolTip": "ApiMovies\\Interfaces\\IRepositoryPelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T23:54:13.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPeliculaService.cs",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\Interfaces\\IPeliculaService.cs",
+              "RelativeDocumentMoniker": "ApiMovies\\Interfaces\\IPeliculaService.cs",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\Interfaces\\IPeliculaService.cs",
+              "RelativeToolTip": "ApiMovies\\Interfaces\\IPeliculaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:09:38.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\Program.cs",
+              "RelativeDocumentMoniker": "ApiMovies\\Program.cs",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\Program.cs*",
+              "RelativeToolTip": "ApiMovies\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T00:33:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "crearPeliculaDTO.cs",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\Models\\crearPeliculaDTO.cs",
+              "RelativeDocumentMoniker": "ApiMovies\\Models\\crearPeliculaDTO.cs",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\Models\\crearPeliculaDTO.cs",
+              "RelativeToolTip": "ApiMovies\\Models\\crearPeliculaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:27:29.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\appsettings.json",
+              "RelativeDocumentMoniker": "ApiMovies\\appsettings.json",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\appsettings.json",
+              "RelativeToolTip": "ApiMovies\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-27T00:33:06.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApiMovies.http",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\ApiMovies.http",
+              "RelativeDocumentMoniker": "ApiMovies\\ApiMovies.http",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\ApiMovies.http",
+              "RelativeToolTip": "ApiMovies\\ApiMovies.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-27T00:38:12.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContextDb.cs",
+              "DocumentMoniker": "E:\\ApiMovies\\ApiMovies\\Context\\ContextDb.cs",
+              "RelativeDocumentMoniker": "ApiMovies\\Context\\ContextDb.cs",
+              "ToolTip": "E:\\ApiMovies\\ApiMovies\\Context\\ContextDb.cs",
+              "RelativeToolTip": "ApiMovies\\Context\\ContextDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T23:49:17.479Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

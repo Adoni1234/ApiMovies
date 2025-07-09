@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pZXbsxktrBQlOomfE3QkrHFK5DAqfLnoqK7GTcc2Z4E=",
+  "Source": "ApiMovies",
+  "BasePath": "_content/ApiMovies",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "ContainingType": "ApiMovies.Controllers.PeliculaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Pelicula",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiMovies.Controllers.PeliculaController",
+    "Method": "Create",
+    "RelativePath": "api/Pelicula",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pelicula",
+        "Type": "ApiMovies.Models.crearPeliculaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiMovies.Controllers.PeliculaController",
+    "Method": "Update",
+    "RelativePath": "api/Pelicula",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pelicula",
+        "Type": "ApiMovies.Models.Pelicula",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiMovies.Controllers.PeliculaController",
+    "Method": "Get",
+    "RelativePath": "api/Pelicula/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiMovies.Controllers.PeliculaController",
+    "Method": "Delete",
+    "RelativePath": "api/Pelicula/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
